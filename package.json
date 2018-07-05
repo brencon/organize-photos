@@ -1,8 +1,8 @@
 {
-  "name": "@lukekarrys/organize-photos",
-  "description": "Organize my photos and videos.",
-  "version": "1.3.4",
-  "author": "Luke Karrys <luke@lukekarrys.com>",
+  "name": "@brencon/organize-photos",
+  "description": "Organize your photos and videos.",
+  "version": "1.4.0",
+  "author": "Brendan Conrad <brendan.conrad@gmail.com>",
   "bin": "lib/cli.js",
   "bugs": {
     "url": "https://github.com/lukekarrys/organize-photos/issues"
@@ -27,7 +27,7 @@
     "tap-spec": "^5.0.0",
     "tape": "^4.9.1"
   },
-  "homepage": "https://github.com/lukekarrys/organize-photos#readme",
+  "homepage": "https://github.com/brencon/organize-photos#readme",
   "keywords": [
     "photos"
   ],
@@ -40,7 +40,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lukekarrys/organize-photos.git"
+    "url": "git+ssh://git@github.com/brencon/organize-photos.git"
   },
   "scripts": {
     "lint": "standard",

@@ -2,10 +2,9 @@
 
 Organizes your photos and videos.
 
-[![NPM](https://nodei.co/npm/@lukekarrys/organize-photos.png)](https://nodei.co/npm/@lukekarrys/organize-photos/)
-[![Build Status](https://travis-ci.org/lukekarrys/organize-photos.png?branch=master)](https://travis-ci.org/lukekarrys/organize-photos)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/lukekarrys/organize-photos.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/brencon/organize-photos.svg?branch=master)](https://travis-ci.org/brencon/organize-photos) 
+
+[![NPM](https://nodei.co/npm/organize-photos.png)](https://nodei.co/npm/organize-photos/)
 
 ## Overview
 
@@ -32,12 +31,12 @@ Organizes your photos and videos.
 
 ### CLI
 ```
-npm install @lukekarrys/organize-photos -g
+npm install @brencon/organize-photos -g
 ```
 
 ### Module
 ```
-npm install @lukekarrys/organize-photos --save
+npm install @brencon/organize-photos --save
 ```
 
 ## Development
@@ -62,11 +61,16 @@ On Windows, you will encounter the error "'NODE_ENV' is not recognized as an int
 
 MIT
 
-## Contributors
+## Contributor
 
 ### Brendan Conrad
 
 * GitHub - <https://github.com/brencon>
 * Twitter - <https://twitter.com/symBrendan>
 
+## Original Project Owner
+
+### Luke Karrys
+
+* GitHub - <https://github.com/lukekarrys>
 
