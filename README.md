@@ -40,6 +40,14 @@ npm install @lukekarrys/organize-photos -g
 npm install @lukekarrys/organize-photos --save
 ```
 
+## Usage
+
+### Examples
+
+#### Dry Verbose JPG and PNG Sorted by DateTimeOriginal, CreateDate, FileCreateDate
+
+`organize-photos --src <source folder> --dest <destination folder> --verbose true --exif-date "DateTimeOriginal" "CreateDate" "FileCreateDate" --ext "jpg" "png"`
+
 ## Development
 
 ### Prerequisites
