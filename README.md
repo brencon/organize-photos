@@ -4,7 +4,7 @@ Organizes your photos and videos.
 
 [![Build Status](https://travis-ci.org/brencon/organize-photos.svg?branch=master)](https://travis-ci.org/brencon/organize-photos) 
 
-[![NPM](https://nodei.co/npm/organize-photos.png)](https://nodei.co/npm/organize-photos/)
+[![NPM](https://nodei.co/npm/@brencon/organize-photos.png)](https://www.npmjs.com/package/@brencon/organize-photos)
 
 ## Overview
 
