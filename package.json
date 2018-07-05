@@ -1,7 +1,7 @@
 {
   "name": "@brencon/organize-photos",
   "description": "Organize your photos and videos.",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "author": "Brendan Conrad <brendan.conrad@gmail.com>",
   "bin": "lib/cli.js",
   "bugs": {
